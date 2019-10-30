@@ -1,1 +1,2 @@
-hola desde master
+<<<<<<< HEAD
+>>>>>>> branch1
